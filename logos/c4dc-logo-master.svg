@@ -9,16 +9,16 @@
 	</sodipodi:namedview>
 <g id="layer1" transform="translate(-20.85323,-5.2193005)" inkscape:label="Layer 1" inkscape:groupmode="layer">
 	<g id="g5303" transform="translate(37.142857,-88.571429)">
-		<rect id="rect7911" x="154.286" y="260.384" fill="#C0392B" width="365.714" height="68.571"/>
+		<rect id="rect7911" x="154.286" y="260.384" fill="#E74C3C" width="365.714" height="68.571"/>
 		
 			<path id="path7933" inkscape:flatsided="false" inkscape:rounded="0" inkscape:randomized="0" inkscape:transform-center-x="-0.00021038516" inkscape:transform-center-y="-5.4017934" sodipodi:arg1="0.78539816" sodipodi:cx="1000" sodipodi:cy="1272.5215" sodipodi:r1="28.284271" sodipodi:sides="5" sodipodi:arg2="1.4137167" sodipodi:type="star" sodipodi:r2="14.142136" display="none" fill="#800000" d="
 			M204.431,114.171l16.625,33.686l37.175,5.402l-26.9,26.221l6.35,37.025l-33.25-17.481l-33.25,17.481l6.35-37.025l-26.9-26.221
 			l37.175-5.402L204.431,114.171z"/>
-		<polygon fill="#C0392B" points="237.763,214.738 204.426,190.645 171.211,214.905 183.823,175.755 150.487,151.662 
+		<polygon fill="#E74C3C" points="237.763,214.738 204.426,190.645 171.211,214.905 183.823,175.755 150.487,151.662 
 			191.618,151.559 204.23,112.408 217.039,151.495 258.17,151.392 224.955,175.652 		"/>
-		<polygon fill="#C0392B" points="366.179,216.419 332.842,192.326 299.627,216.586 312.239,177.436 278.902,153.343 
+		<polygon fill="#E74C3C" points="366.179,216.419 332.842,192.326 299.627,216.586 312.239,177.436 278.902,153.343 
 			320.034,153.24 332.646,114.09 345.454,153.176 386.586,153.073 353.37,177.333 		"/>
-		<polygon fill="#C0392B" points="494.491,218.042 461.155,193.949 427.939,218.209 440.551,179.059 407.215,154.966 
+		<polygon fill="#E74C3C" points="494.491,218.042 461.155,193.949 427.939,218.209 440.551,179.059 407.215,154.966 
 			448.346,154.863 460.958,115.712 473.767,154.799 514.898,154.696 481.683,178.956 		"/>
 		
 			<path id="path7933-3" inkscape:flatsided="false" inkscape:rounded="0" inkscape:randomized="0" inkscape:transform-center-x="-0.00021028516" inkscape:transform-center-y="-5.4017934" sodipodi:arg1="0.78539816" sodipodi:cx="1000" sodipodi:cy="1272.5215" sodipodi:r1="28.284271" sodipodi:sides="5" sodipodi:arg2="1.4137167" sodipodi:type="star" sodipodi:r2="14.142136" display="none" fill="#800000" d="
@@ -27,8 +27,8 @@
 		
 			<text transform="matrix(0.7287 0 0 1 519.9998 386.2093)" fill="#353740" font-family="'SourceCodePro-Bold'" font-size="247.3472">/&gt;</text>
 		
-			<text transform="matrix(0.7287 0 0 1 -5.0788 386.2093)" fill="#353740" font-family="'SourceCodePro-Bold'" font-size="247.3472">&lt;</text>
-		<rect id="rect7911-6" x="154.286" y="355.219" fill="#C0392B" width="365.714" height="68.571"/>
+			<text transform="matrix(0.7287 0 0 1 -12.2897 386.2095)" fill="#353740" font-family="'SourceCodePro-Bold'" font-size="247.3472">&lt;</text>
+		<rect id="rect7911-6" x="154.286" y="355.219" fill="#E74C3C" width="365.714" height="68.571"/>
 	</g>
 </g>
 </svg>
