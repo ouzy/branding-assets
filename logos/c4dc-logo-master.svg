@@ -25,9 +25,9 @@
 			M332.744,114.171l16.625,33.686l37.175,5.402l-26.9,26.221l6.35,37.025l-33.25-17.481l-33.25,17.481l6.35-37.025l-26.9-26.221
 			l37.175-5.402L332.744,114.171z"/>
 		
-			<text transform="matrix(0.7287 0 0 1 519.9998 386.2093)" fill="#353740" font-family="'SourceCodePro-Bold'" font-size="247.3472">/&gt;</text>
+			<text transform="matrix(0.7287 0 0 1 519.9998 386.2093)" fill="#3E434A" font-family="'SourceCodePro-Bold'" font-size="247.3472">/&gt;</text>
 		
-			<text transform="matrix(0.7287 0 0 1 -12.2897 386.2095)" fill="#353740" font-family="'SourceCodePro-Bold'" font-size="247.3472">&lt;</text>
+			<text transform="matrix(0.7287 0 0 1 -12.2897 386.2095)" fill="#3E434A" font-family="'SourceCodePro-Bold'" font-size="247.3472">&lt;</text>
 		<rect id="rect7911-6" x="154.286" y="355.219" fill="#E74C3C" width="365.714" height="68.571"/>
 	</g>
 </g>
